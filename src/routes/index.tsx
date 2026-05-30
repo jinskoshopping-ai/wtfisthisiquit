@@ -161,14 +161,24 @@ function Index() {
               <p>
                 Das heutige Café Koch am Aichacher Stadtplatz 17 blickt auf eine
                 lange Geschichte zurück. Bereits 1644 übergab der Bierbrauer
-                Georg Oefele sein im 30‑jährigen Krieg verschontes Anwesen an
-                seinen Schwiegersohn – den Ahnherrn der heutigen Besitzer.
+                <strong> Georg Oefele</strong> sein im 30‑jährigen Krieg verschontes
+                Anwesen an seinen Schwiegersohn – den Ahnherrn der heutigen Besitzer.
               </p>
               <p>
-                September 1679 brachte Anna Maria Schmaus das Haus als Heiratsgut in die
-                Ehe mit Johann Baptist Koch ein – das Geburtsjahr des Café Koch.
-                Heute führen Gerhard Granvogl, Konditor- und Pralinenmeister,
-                und seine Frau Ingrid das Haus in der zehnten Familiengeneration.
+                September 1679 brachte <strong>Anna Maria Schmaus</strong> das Haus
+                als Heiratsgut in die Ehe mit <strong>Johann Baptist Koch</strong> ein –
+                das Geburtsjahr des Café Koch. Heute führen{" "}
+                <strong>Gerhard Granvogl</strong>, Konditor- und Pralinenmeister,
+                und seine Frau <strong>Ingrid</strong> das Haus in der zehnten
+                Familiengeneration.
+              </p>
+              <p>
+                Auch die 11. Generation unserer Familie ist bereits voll umfänglich
+                im Café Koch tätig: <strong>Claudia Granvogl Klingenstein</strong>{" "}
+                (Konditormeisterin / Produktion) und{" "}
+                <strong>Christina Granvogl</strong> (Fachverkäuferin / Verkauf)
+                teilen sich gemeinsam mit <strong>Ingrid Granvogl</strong>{" "}
+                (Teamleitung) die Verantwortung für unseren Betrieb.
               </p>
               <p>
                 Mit dem letzten großen Umbau 1990 erhielt das Café sein heutiges,
